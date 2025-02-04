@@ -1,0 +1,50 @@
+a. What is your understanding of a devops culture in an organization?
+
+DevOps simply put is an approach to software development that combines the roles of developemnt teams and IT operations teams to bring about faster, quality software releases and automation of processes.
+
+DevOps is not just a set of practices, tools or processes, but is also a culture and way
+of working to enable all the moving parts come together and achieve its goal. It is a culture that emphasizes collaboration, communication, automation of manual tasks among others.
+
+There are 9 pillars that when practised and properly adhered to, will bring about a thriving devops culture in an organization. They are listed as follows:
+
+1. Leadership Culture: This simply refers to the principle that a thriving devops culture must be driven by the leadership of an organization. Good performance should be recognized, curiosity and questions should be encouraged to promote a learning culture.
+2. Collaboration Culture: This refers to the fact that to enable a devops culture in an organization, there must be collaboration, frequent communication and even overlaps in roles to ensure nothing slips through the cracks and issues are addressed promptly.
+3. Design for Devops: There must be systems, tools and processes to enable devops as a culture work technically. Version control systems must be used, there must be regular sprints, team communication tools must be provided and tools that will enable automation must be utilised.
+4. Continuous Integration: Tools must be used to build and test code and be release ready for deployment at anytime. 
+5. Continuous Testing: Unit tests, functional regression tests and other types of test must be carried out automatically while building software artefacts. The infrastructure that hosts testing tools must be dynamic enough to handle larger or smaller amounts of load, depending on what is being tested.
+6. Continuous Security: Security must be a priority for teams and individuals in the teams. Passwords and credentials to roles and platforms must be kept with the strictest confidence. There must also be tools to heal secure software and ensure passwords and sensitive credentials are not exposed or left readable in version control systems.
+7. Continuous Deployment: Deployments to live production or staging environments should be automated and be done with minimal manual input.
+8. Continuous Monitoring: Monitoring tools should be utilised to track infrastructure and software performance to anticipate downtimes and other issues and ensure minimal downtimes for end users.
+
+
+
+b. What does a DevOps Engineer do and what tools are available? 
+
+A devops engineer is someone typically with experience in software development and good knowledge of IT operations who oversees the software development life cycle and ensures software is developed and put through the DevOps life cycle (Plan, Code, Build, Test, Release, Deploy, Operate, Monitor).
+He focuses on automation of steps in the software development life cycle, ensures code is always release ready, automates deployments and tracks performance of tools and infrastructure to avoid downtimes for end users.
+
+
+
+
+c. Describe the Software development Life Cycle identifying where DevOps fit in
+
+The software development life cycle is Plan, define, design, coding, testing, deployment, maintenance. DevOps fits into the entire cycle by following these steps which also cover the SDLC: Plan, Code, Build, Test, Release, Deploy, Operate, Monitor. In DevOps, results and insights gotten from the monitoring stage feeds into planning in the next cycle and it becomes a loop. 
+
+
+
+
+D. What are the DevOps best practices? 
+
+Leadership Culture: This simply refers to the principle that a thriving devops culture must be driven by the leadership of an organization. Good performance should be recognized, curiosity and questions should be encouraged to promote a learning culture.
+1. Collaboration Culture: This refers to the fact that to enable a devops culture in an organization, there must be collaboration, frequent communication and even overlaps in roles to ensure nothing slips through the cracks and issues are addressed promptly.
+2. Design for Devops: There must be systems, tools and processes to enable devops as a culture work technically. Version control systems must be used, there must be regular sprints, team communication tools must be provided and tools that will enable automation must be utilised.
+3. Continuous Integration: Tools must be used to build and test code and be release ready for deployment at anytime. 
+4. Continuous Testing: Unit tests, functional regression tests and other types of test must be carried out automatically while building software artefacts. The infrastructure that hosts testing tools must be dynamic enough to handle larger or smaller amounts of load, depending on what is being tested.
+5. Continuous Security: Security must be a priority for teams and individuals in the teams. Passwords and credentials to roles and platforms must be kept with the strictest confidence. There must also be tools to heal secure software and ensure passwords and sensitive credentials are not exposed or left readable in version control systems.
+6. Continuous Deployment: Deployments to live production or staging environments should be automated and be done with minimal manual input.
+7. Continuous Monitoring: Monitoring tools should be utilised to track infrastructure and software performance to anticipate downtimes and other issues and ensure minimal downtimes for end users.
+
+
+
+e. What is the difference between a DevOps engineer and SRE engineer?  
+A devops engineer typically is someone who has skills in software development and knowledge of IT operations to ensure code is always release ready, who also automates tests, builds and deployments. An SRE engineer is someone who uses software engineering principles to solve IT operations issues. He basically manages infrastructure using software, regardless of how many servers and platforms are in use.
